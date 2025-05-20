@@ -2,3 +2,6 @@
 
 
 <br>
+
+## 🏹ABOUT
+*** exploring npm's on freetime and learning through docs and so on.....
