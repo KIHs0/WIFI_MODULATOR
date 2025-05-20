@@ -1,7 +1,6 @@
-##  just seeking some of the npm package 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="54" height="54" alt="npm" /> 
 
 
-<br>
 
 ## 🏹ABOUT
-*** exploring npm's on freetime and learning through docs and so on.....
+🔎exploring<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="54" height="54" alt="npm" />PACKAGE on freetime and 🌿learning through docs and so on.....
